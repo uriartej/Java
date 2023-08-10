@@ -1,6 +1,6 @@
 import java.util.Optional;
 
-public class Main {
+public class Constructors {
 
 
     public static void main(String[] args) {
